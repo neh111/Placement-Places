@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<school>
+  <grade name="י         ">
+    <numClassInGrade numClass="2">
+      <row numRow="1">
+        <table numLine="1">
+          <constraint>ליד מזגן</constraint>
+        </table>
+        <table numLine="2" />
+      </row>
+      <row numRow="2">
+        <table numLine="1">
+          <constraint>מוסתר</constraint>
+          <constraint>ליד חלון</constraint>
+        </table>
+        <table numLine="2">
+          <constraint>ליד חלון</constraint>
+        </table>
+      </row>
+    </numClassInGrade>
+  </grade>
+</school>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<school>
+  <grade name="י         ">
+    <numClassInGrade numClass="2">
+      <row numRow="1">
+        <table numLine="1">
+          <constraint>ליד מזגן</constraint>
+        </table>
+        <table numLine="2" />
+      </row>
+      <row numRow="2">
+        <table numLine="1">
+          <constraint>מוסתר</constraint>
+          <constraint>ליד חלון</constraint>
+        </table>
+        <table numLine="2">
+          <constraint>ליד חלון</constraint>
+        </table>
+      </row>
+    </numClassInGrade>
+  </grade>
+  <grade name="ט         ">
+    <numClassInGrade numClass="2">
+      <row numRow="1">
+        <table numLine="1" />
+        <table numLine="2" />
+        <table numLine="3" />
+        <table numLine="4" />
+      </row>
+      <row numRow="2">
+        <table numLine="1" />
+        <table numLine="2" />
+        <table numLine="3" />
+        <table numLine="4" />
+      </row>
+      <row numRow="3">
+        <table numLine="1" />
+        <table numLine="2" />
+        <table numLine="3" />
+        <table numLine="4" />
+      </row>
+      <row numRow="4">
+        <table numLine="1">
+          <constraint>ליד מזגן</constraint>
+          <constraint>מוסתר</constraint>
+        </table>
+        <table numLine="2">
+          <constraint>מוסתר</constraint>
+        </table>
+        <table numLine="3" />
+        <table numLine="4" />
+      </row>
+    </numClassInGrade>
+    <numClassInGrade numClass="1">
+      <row numRow="1">
+        <table numLine="1">
+          <constraint>ליד מזגן</constraint>
+          <student name="אתי הלפגוט" />
+          <student name="מלי שוורץ" />
+        </table>
+        <table numLine="2" />
+        <table numLine="3" />
+        <table numLine="4" />
+      </row>
+      <row numRow="2">
+        <table numLine="1">
+          <constraint>ליד מזגן</constraint>
+        </table>
+        <table numLine="2" />
+        <table numLine="3" />
+        <table numLine="4" />
+      </row>
+      <row numRow="3">
+        <table numLine="1" />
+        <table numLine="2" />
+        <table numLine="3" />
+        <table numLine="4">
+          <constraint>ליד קיר</constraint>
+        </table>
+      </row>
+      <row numRow="4">
+        <table numLine="1">
+          <constraint>ליד חלון</constraint>
+          <constraint>ליד קיר</constraint>
+        </table>
+        <table numLine="2" />
+        <table numLine="3">
+          <constraint>ליד קיר</constraint>
+          <constraint>ליד חלון</constraint>
+        </table>
+        <table numLine="4" />
+      </row>
+    </numClassInGrade>
+    <numClassInGrade numClass="5">
+      <row numRow="1">
+        <table numLine="1" />
+        <table numLine="2" />
+        <table numLine="3" />
+      </row>
+      <row numRow="2">
+        <table numLine="1" />
+        <table numLine="2" />
+        <table numLine="3" />
+      </row>
+      <row numRow="3">
+        <table numLine="1" />
+        <table numLine="2" />
+        <table numLine="3" />
+      </row>
+    </numClassInGrade>
+  </grade>
+</school>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<class>
+	
+	<coulmn name="A" near_window="No">
+		<table num="1" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	<table num="2" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+<table num="3" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	<table num="4" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	</coulmn>
+	
+<coulmn name="B" near_window="No">
+		<table num="1" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	<table num="2" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+<table num="3" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	<table num="4" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	</coulmn>
+	
+<coulmn name="C" near_window="No">
+		<table num="1" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	<table num="2" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+<table num="3" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	<table num="4" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	</coulmn>
+	
+<coulmn name="D" near_window="Yes">
+		<table num="1" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	<table num="2" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+<table num="3" hidden="No" near_conditioner="No" near_wall="Yes"></table>
+	</coulmn>
+
+</class>

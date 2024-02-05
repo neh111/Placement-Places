@@ -1,0 +1,81 @@
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.csprojAssemblyReference.cache
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.DeskUserControl.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddClass.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddStudentConstraint.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddStudents.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmDeskUserControl.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmEnterance.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmPlacement.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.TablesToConstraints.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.Properties.Resources.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Settings.resources
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.GenerateResource.cache
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\PL.exe.config
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\PL.exe
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\PL.pdb
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\BLL.dll
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\DAL.dll
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\BLL.pdb
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\BLL.dll.config
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\DAL.pdb
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\DAL.dll.config
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\EntityFramework.xml
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\bin\Debug\EntityFramework.SqlServer.xml
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.exe
+L:\שנה ב\משרד החינוך\אנחנו\נחמי הלפגוט\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.pdb
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\PL.exe.config
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\PL.exe
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\PL.pdb
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\BLL.dll
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\DAL.dll
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\BLL.pdb
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\BLL.dll.config
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\DAL.pdb
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\DAL.dll.config
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\EntityFramework.xml
+D:\C#\placement-final project in winform\placement_places\PL\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.csprojAssemblyReference.cache
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.DeskUserControl.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddClass.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddStudentConstraint.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddStudents.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmDeskUserControl.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmEnterance.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmPlacement.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.TablesToConstraints.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.Properties.Resources.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Settings.resources
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.GenerateResource.cache
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.CopyComplete
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.exe
+D:\C#\placement-final project in winform\placement_places\PL\obj\Debug\PL.pdb
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\PL.exe.config
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\PL.exe
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\PL.pdb
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\BLL.dll
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\DAL.dll
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\BLL.pdb
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\BLL.dll.config
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\DAL.pdb
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\DAL.dll.config
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\EntityFramework.xml
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.DeskUserControl.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddClass.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddStudentConstraint.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmAddStudents.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmDeskUserControl.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmEnterance.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.FrmPlacement.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Gui.TablesToConstraints.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\placement_places.Settings.resources
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\PL.exe
+C:\Users\Nechami\Desktop\תכנות\יד\c#\פרויקט שיבוץ מקומות\placement-final project in winform\placement_places\PL\obj\Debug\PL.pdb

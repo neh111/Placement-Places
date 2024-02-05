@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Nechami_placementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="class_tbl">
+    <Key>
+      <PropertyRef Name="id_class" />
+    </Key>
+    <Property Name="id_class" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="class_name" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="num_class_in_grade" Type="int" />
+  </EntityType>
+  <EntityType Name="propPlace_tbl">
+    <Key>
+      <PropertyRef Name="id_propPlace" />
+    </Key>
+    <Property Name="id_propPlace" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="propPlace_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="studentConstraints_tbl">
+    <Key>
+      <PropertyRef Name="id_studentConstraints" />
+    </Key>
+    <Property Name="id_studentConstraints" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_student" Type="int" Nullable="false" />
+    <Property Name="id_propPlace" Type="int" Nullable="false" />
+    <Property Name="status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="students_tbl">
+    <Key>
+      <PropertyRef Name="id_student" />
+    </Key>
+    <Property Name="id_student" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="family_name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="id_class" Type="int" Nullable="false" />
+    <Property Name="chatter_degree" Type="numeric" Precision="5" Scale="1" Nullable="false" />
+    <Property Name="recommended_row" Type="int" />
+    <Property Name="coulmn" Type="int" />
+    <Property Name="row" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_studentConstraints_tbl_propPlace_tbl">
+    <End Role="propPlace_tbl" Type="Self.propPlace_tbl" Multiplicity="1" />
+    <End Role="studentConstraints_tbl" Type="Self.studentConstraints_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="propPlace_tbl">
+        <PropertyRef Name="id_propPlace" />
+      </Principal>
+      <Dependent Role="studentConstraints_tbl">
+        <PropertyRef Name="id_propPlace" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_studentConstraints_tbl_students_tbl">
+    <End Role="students_tbl" Type="Self.students_tbl" Multiplicity="1" />
+    <End Role="studentConstraints_tbl" Type="Self.studentConstraints_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="students_tbl">
+        <PropertyRef Name="id_student" />
+      </Principal>
+      <Dependent Role="studentConstraints_tbl">
+        <PropertyRef Name="id_student" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_students_tbl_class_tbl">
+    <End Role="class_tbl" Type="Self.class_tbl" Multiplicity="1" />
+    <End Role="students_tbl" Type="Self.students_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="class_tbl">
+        <PropertyRef Name="id_class" />
+      </Principal>
+      <Dependent Role="students_tbl">
+        <PropertyRef Name="id_class" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Nechami_placementModelStoreContainer">
+    <EntitySet Name="class_tbl" EntityType="Self.class_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="propPlace_tbl" EntityType="Self.propPlace_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="studentConstraints_tbl" EntityType="Self.studentConstraints_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="students_tbl" EntityType="Self.students_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_studentConstraints_tbl_propPlace_tbl" Association="Self.FK_studentConstraints_tbl_propPlace_tbl">
+      <End Role="propPlace_tbl" EntitySet="propPlace_tbl" />
+      <End Role="studentConstraints_tbl" EntitySet="studentConstraints_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_studentConstraints_tbl_students_tbl" Association="Self.FK_studentConstraints_tbl_students_tbl">
+      <End Role="students_tbl" EntitySet="students_tbl" />
+      <End Role="studentConstraints_tbl" EntitySet="studentConstraints_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_students_tbl_class_tbl" Association="Self.FK_students_tbl_class_tbl">
+      <End Role="class_tbl" EntitySet="class_tbl" />
+      <End Role="students_tbl" EntitySet="students_tbl" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
